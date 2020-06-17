@@ -1,2 +1,7 @@
 # hello-world
-Mi primer repositorio XD
+
+Saludos :)
+
+Mi nombre es Yurley, tengo 19 años y amo la pizza XD. 
+
+
